@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxHenk
 - 👀 I’m interested in statistics, geography, cartography, machine learning.
-- 🌱 I’m currently learning geography and machine learning
+- 🌱 I’m currently doing a Ms in Geography : Spatial Analysis and Complex Systems at the University of Lausanne.
 - 💞️ I’m looking to collaborate on geography and python tasks
 - 📫 How to reach me ...
 
